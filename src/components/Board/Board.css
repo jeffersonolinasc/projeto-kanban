@@ -1,0 +1,21 @@
+
+.board{
+    min-width: 32.52%;
+  
+}
+.board_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #707070;
+}
+
+.board_header_title{
+    font-size: 13px;
+    font-weight: 400;
+
+}
+
+.board_header_title_more{
+    cursor: pointer;
+}
